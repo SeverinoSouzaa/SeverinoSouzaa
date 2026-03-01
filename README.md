@@ -5,8 +5,6 @@
 
 
 
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8565FF&width=435&lines=Bem+vindo(a)+ao+meu+Github!)](https://git.io/typing-svg)
 
 ###
@@ -49,9 +47,11 @@
 ###
 
 <div style="text-align: left" >
-  <a href="https://www.instagram.com/settz_" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-%238565FFFF?style=flat&logo=INSTAGRAM&logoColor=white" height="45"></a>
-  <img alt="Static Badge" src="https://img.shields.io/badge/-%238565FFFF?style=flat&logo=discord&logoColor=white" height="45">
+
+  <a href="mailto:severinosouza.ufam@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/EMAIL-%23000000?style=for-the-badge&logoColor=%238565FFFF" height="30" target="_blank" style="cursor: pointer"></a>
+  <a href="https://www.instagram.com/settz_"><img alt="Static Badge" src="https://img.shields.io/badge/INSTAGRAM-%23000000?style=for-the-badge&logo=INSTAGRAM&logoColor=%238565FFFF" height="30" target="_blank" style="cursor: pointer"></a>
+
+
 
 </div>
 
