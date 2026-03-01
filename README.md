@@ -25,9 +25,11 @@
 
 <div style="text-align: left" >
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%238565FFFF?style=for-the-badge&logo=html5&logoColor=white" height="40">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-%238565FFFF?style=for-the-badge&logo=CSS&logoColor=white" height="0" >
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-%238565FFFF?style=for-the-badge&logo=CSS&logoColor=white" height="40" >
   <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%238565FFFF?style=for-the-badge&logo=JAVASCRIPT&logoColor=white" height="40">
-<img alt="Static Badge" src="https://img.shields.io/badge/NODE.JS-%238565FFFF?style=for-the-badge&logo=NODE.JS&logoColor=white" height="40">
+<img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-%238565FFFF?style=for-the-badge&logo=MYSQL&logoColor=white" height="40">
+
+
 
 
 ###
