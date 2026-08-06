@@ -11,7 +11,17 @@
 
 ###
 
-<p style="text-align: center" >Olá, me chamo Severino Souza. <br>Sou estudante de Sistemas de Informação na Universidade Federal do Amazonas (UFAM), apaixonado por tecnologia, desenvolvimento de software e construção de soluções digitais bem estruturadas.<br><br>Atualmente, estou focado no desenvolvimento FullStack. Com base em front-end busco a cada dia entender melhor lógica de programação, algoritmos, estruturas de dados, bancos de dados etc.  Aprofundando meus conhecimentos no funcionamento do lado do servidor.<br><br></p>
+<p align="justify">
+Estudante de Sistemas de Informação na Universidade Federal do Amazonas (UFAM), focado em combinar o desenvolvimento de software com soluções em Inteligência Artificial. Possui base prática em desenvolvimento de aplicações web e mobile, utilizando o ecossistema JavaScript (React Native, Expo, Node.js e NestJS). Com forte interesse em arquitetura de <b>Backend</b>, atua na construção e consumo de APIs REST, integração de dados e estruturação de sistemas. 
+<br><br>
+Atualmente, dedica-se à pesquisa e desenvolvimento em <b>Aprendizado de Máquina (Machine Learning)</b>, <b>Redes Neurais</b> e <b>Visão Computacional</b>. Busca constantemente alinhar sua bagagem em engenharia de software com a inovação em IA, criando soluções tecnológicas para problemas reais.
+</p>
+
+- 💻 **Desenvolvimento Web & Mobile:** Construção de interfaces e aplicações focadas na experiência do usuário utilizando JavaScript, React Native e Expo.
+- ⚙️ **Backend & APIs:** Arquitetura do lado do servidor, desenvolvimento e consumo de APIs RESTful utilizando Node.js e NestJS.
+- 🤖 **Inteligência Artificial:** Pesquisa e aplicação de Machine Learning, Redes Neurais e Visão Computacional.
+- 🔬 **Projetos Práticos:** Desenvolvimento de soluções tecnológicas, incluindo modelos de previsão de evasão universitária.
+- 🎓 **Educação:** Estudante de Sistemas de Informação — UFAM.
 
 ###
 
